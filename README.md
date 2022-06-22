@@ -1,1 +1,1 @@
-# Sentiment_Analysis_using_Naive_Bayes_NLP_specialization
+# Sentiment Analysis using Naive Bayes NLP specialization
